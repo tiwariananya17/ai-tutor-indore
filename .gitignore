@@ -1,0 +1,6 @@
+tutor.db
+tutor.db-*
+admin_password.txt
+venv/
+__pycache__/
+tutor_activation_codes.csv

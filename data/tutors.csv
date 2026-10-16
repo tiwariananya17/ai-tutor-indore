@@ -1,0 +1,57 @@
+id,name,gender,qualification,experience,subjects,classes,locality,mode,fee,languages,availability,source,board,medium,stream
+1,Sunita Saxena,F,"B.Com, B.Ed",3,Biology;English;Mathematics,6-12,Vijay Nagar,Home Tuition,520,English;Hindi,Mon 15-18;Tue 18-22;Fri 15-18;Sun 9-14,SAMPLE,"CBSE, ICSE",English;Hindi,Science
+2,Shalini Kulkarni,F,"M.Sc Chemistry, B.Ed",10,English;Hindi;EVS,1-5,Vijay Nagar,Home Tuition,540,English;Hindi,,SAMPLE,"CBSE, MP Board",English;Hindi,
+3,Swati Gupta,F,"CA Inter, B.Com",5,Accountancy;Mathematics;Business Studies,9-12,Vijay Nagar,Home Tuition,500,English;Hindi,Mon 16-20;Fri 15-20;Sat 18-21,SAMPLE,CBSE,English;Hindi,Commerce
+4,Divya Vyas,F,M.Com,8,Economics;English;Accountancy,9-12,Saket Nagar,Home Tuition,610,English;Hindi,Tue 15-20;Wed 17-22;Fri 18-22;Sat 18-22,SAMPLE,ICSE,English;Hindi,Commerce
+5,Preeti Gupta,F,"M.Sc Biology, B.Ed",15,English;Hindi;Social Science,4-8,Rau,Home Tuition,740,English;Hindi,Fri 17-21;Sun 18-22,SAMPLE,MP Board,English;Hindi,
+6,Neha Joshi,F,"M.A History, B.Ed",11,Political Science;Economics;History;English,9-12,New Palasia,Home Tuition,640,English;Hindi,,SAMPLE,CBSE,English;Hindi,Arts
+7,Mayank Shukla,M,M.Com,6,Mathematics;Accountancy;Economics,11-12,Scheme 78,Home Tuition,450,Hindi,Mon 15-18;Tue 17-20;Thu 16-20;Fri 18-22,SAMPLE,CBSE,Hindi,Commerce
+8,Shweta Chouhan,F,"M.A Geography, B.Ed",5,History;Geography;Hindi;Political Science,11-12,New Palasia,Home Tuition,540,Hindi,Tue 15-18;Thu 16-19;Fri 16-19;Sat 16-21,SAMPLE,CBSE,Hindi,Arts
+9,Sunita Gupta,F,"B.Com, B.Ed",10,Biology;Mathematics;English;Computer Science,9-12,Bhawarkuan,Home Tuition,680,English;Hindi,Fri 15-19;Sat 18-22;Sun 16-20,SAMPLE,MP Board,English;Hindi,Science
+10,Sapna Saxena,F,"M.Sc Physics, B.Ed",2,Mathematics;English;Hindi;EVS,1-5,Rajendra Nagar,Home Tuition,210,English;Hindi,Wed 15-18;Fri 15-20,SAMPLE,CBSE,English;Hindi,
+11,Richa Sharma,F,"M.A English, B.Ed",10,Mathematics;English;Hindi;EVS,1-5,Bengali Square,Home Tuition,530,English;Hindi,,SAMPLE,ICSE,English;Hindi,
+12,Divya Patel,F,Experienced school teacher (B.A),8,Mathematics;EVS;General Science,1-5,Choithram,Home Tuition,490,English;Hindi,Mon 17-22;Tue 17-21,SAMPLE,MP Board,English;Hindi,
+13,Rahul Tiwari,M,Experienced school teacher (B.A),3,Biology;English;Physics,11-12,New Palasia,Home Tuition,570,English;Hindi,Fri 17-22;Sun 9-14,SAMPLE,"CBSE, ICSE",English;Hindi,Science
+14,Pooja Pandey,F,"B.Sc, B.Ed",4,Social Science;Hindi;English,4-8,AB Road,Home Tuition,380,Hindi,Tue 16-19;Thu 18-22;Sun 18-21,SAMPLE,CBSE,Hindi,
+15,Meera Tiwari,F,Experienced school teacher (B.A),8,Computer Science;Biology;Chemistry,9-12,Vijay Nagar,Home Tuition,720,Hindi,Mon 16-20;Tue 16-20;Wed 16-20;Sat 17-22,SAMPLE,CBSE,Hindi,Science
+16,Alok Joshi,M,"M.Com, B.Ed",15,Accountancy;English;Economics,9-12,Choithram,Home Tuition,860,English;Hindi,Tue 17-20;Thu 18-22;Sun 16-21,SAMPLE,ICSE,English;Hindi,Commerce
+17,Sunita Sharma,F,"M.Sc Chemistry, B.Ed",3,Mathematics;English;Chemistry,11-12,New Palasia,Home Tuition,500,English;Hindi,Mon 15-20;Tue 15-20;Wed 16-20;Fri 16-19;Sat 9-13,SAMPLE,ICSE,English;Hindi,Science
+18,Mamta Kulkarni,F,M.Ed,7,Biology;Science;Chemistry,4-8,Bengali Square,Home Tuition,360,Hindi,,SAMPLE,"CBSE, MP Board",Hindi,
+19,Harsh Mehta,M,M.A Psychology,3,English;Psychology;Geography;Sociology,11-12,Scheme 78,Home Tuition,480,Hindi,Thu 16-21;Sun 9-12,SAMPLE,"CBSE, ICSE",Hindi,Arts
+20,Lalit Patel,M,"M.A History, B.Ed",6,Sociology;Hindi;English,9-12,Rajendra Nagar,Home Tuition,670,English;Hindi,Mon 16-20;Thu 15-18;Fri 18-22;Sat 9-12;Sun 16-20,SAMPLE,ICSE,English;Hindi,Arts
+21,Ankit Chouhan,M,B.Tech,9,Chemistry;English;Physics;Computer Science,11-12,Bengali Square,Home Tuition,710,English;Hindi,Wed 16-20;Fri 16-20;Sat 9-13,SAMPLE,CBSE,English;Hindi,Science
+22,Nitin Gupta,M,"M.Sc Mathematics, B.Ed",11,Mathematics;English;Hindi;EVS,1-8,Bhawarkuan,Home Tuition,550,Hindi,Wed 16-20;Sat 10-14;Sun 10-15,SAMPLE,CBSE,Hindi,
+23,Jyoti Mishra,F,"M.Com, B.Ed",7,Mathematics;English;Business Studies;Economics,11-12,Saket Nagar,Home Tuition,620,Hindi,Mon 17-22;Wed 18-22;Sat 18-21;Sun 16-20,SAMPLE,"CBSE, ICSE",Hindi,Commerce
+24,Sandeep Patel,M,"M.Sc Mathematics, Ph.D",5,Computer Science;Biology;English,11-12,Scheme 78,Home Tuition,530,Hindi,,SAMPLE,CBSE,Hindi,Science
+25,Varsha Gupta,F,Experienced school teacher (B.A),7,Chemistry;English;Computer Science,6-12,Palasia,Home Tuition,470,English;Hindi,Mon 16-20;Wed 15-19;Fri 15-20;Sat 9-13;Sun 9-14,SAMPLE,MP Board,English;Hindi,Science
+26,Pallavi Patel,F,"CA Inter, B.Com",6,Accountancy;Mathematics;Economics,9-12,Rajendra Nagar,Home Tuition,640,English;Hindi,Mon 15-18;Tue 17-20;Fri 16-19;Sat 15-20,SAMPLE,CBSE,English;Hindi,Commerce
+27,Anjali Mehta,F,B.Tech,5,Mathematics;Biology;English,6-12,Rajendra Nagar,Home Tuition,450,Hindi,Mon 18-21;Tue 18-21;Sat 18-22;Sun 16-21,SAMPLE,ICSE,Hindi,Science
+28,Vivek Tiwari,M,"M.Sc Physics, B.Ed",14,English;Hindi;Social Science,4-8,Vijay Nagar,Home Tuition,760,English;Hindi,Mon 16-19;Wed 15-20;Thu 17-21,SAMPLE,MP Board,English;Hindi,
+29,Deepak Mehta,M,"M.A Political Science, B.Ed",10,Hindi;English;Political Science,11-12,Bengali Square,Home Tuition,650,Hindi,Tue 16-20;Thu 18-21,SAMPLE,CBSE,Hindi,Arts
+30,Gaurav Mishra,M,"M.Sc Biology, B.Ed",4,Mathematics;EVS;General Science,1-8,Vijay Nagar,Home Tuition,320,Hindi,Mon 16-19;Wed 15-18;Thu 17-20;Sun 10-14,SAMPLE,CBSE,Hindi,
+31,Swati Rathore,F,"M.A Economics, B.Ed",3,Economics;Political Science;Hindi;English,9-12,Saket Nagar,Home Tuition,400,English;Hindi,Fri 18-22;Sat 18-22;Sun 10-14,SAMPLE,CBSE,English;Hindi,Arts
+32,Anita Mehta,F,"M.A Hindi, B.Ed",12,Biology;Chemistry;Mathematics,6-12,Palasia,Home Tuition,880,English;Hindi,Fri 15-20;Sat 17-22;Sun 18-22,SAMPLE,CBSE,English;Hindi,Science
+33,Anita Jain,F,B.Tech,3,Biology;English;Mathematics,6-12,AB Road,Home Tuition,350,English;Hindi,Mon 16-20;Sat 15-18,SAMPLE,"CBSE, MP Board",English;Hindi,Science
+34,Ashish Vyas,M,"M.Sc Biology, B.Ed",9,English;Hindi;EVS,1-5,Tilak Nagar,Home Tuition,420,English;Hindi,Mon 16-19;Tue 18-22;Wed 18-21;Fri 18-22;Sun 15-18,SAMPLE,"CBSE, MP Board",English;Hindi,
+35,Neha Bhatt,F,B.Tech,11,Mathematics;Science;English,4-8,New Palasia,Home Tuition,660,English;Hindi,Mon 18-22;Thu 15-20;Sun 10-15,SAMPLE,CBSE,English;Hindi,
+36,Vivek Shukla,M,"B.Com, B.Ed",13,Computer Science;Biology;Mathematics;Physics,6-12,Palasia,Home Tuition,720,English;Hindi,Mon 15-19;Wed 18-21;Thu 18-22,SAMPLE,MP Board,English;Hindi,Science
+37,Komal Joshi,F,B.Tech,3,Mathematics;Science;English,4-8,Bhawarkuan,Home Tuition,340,Hindi,Mon 18-22;Tue 18-21;Wed 16-19;Sat 16-21,SAMPLE,MP Board,Hindi,
+38,Manish Gupta,M,"M.Sc Mathematics, Ph.D",3,Physics;English;Biology;Chemistry,11-12,Bengali Square,Home Tuition,340,Hindi,,SAMPLE,CBSE,Hindi,Science
+39,Ritu Sharma,F,M.A Psychology,5,English;Economics;Political Science;Geography,9-12,Sudama Nagar,Home Tuition,560,English;Hindi,,SAMPLE,MP Board,English;Hindi,Arts
+40,Nidhi Gupta,F,"B.Com, B.Ed",3,Computer Science;Physics;Chemistry,9-12,Rajendra Nagar,Home Tuition,300,English;Hindi,Tue 18-22;Wed 17-20;Sat 15-19;Sun 9-14,SAMPLE,MP Board,English;Hindi,Science
+41,Sonal Joshi,F,"B.A, B.Ed",7,English;Hindi;EVS,1-8,New Palasia,Home Tuition,450,Hindi,Wed 15-20;Thu 16-19;Sat 16-20,SAMPLE,CBSE,Hindi,
+42,Sonal Chouhan,F,"M.Sc Chemistry, B.Ed",5,Computer Science;Mathematics;English,6-12,Scheme 54,Home Tuition,530,English;Hindi,Mon 18-22;Tue 16-20;Thu 17-21;Sat 16-19;Sun 17-20,SAMPLE,"CBSE, ICSE",English;Hindi,Science
+43,Shweta Joshi,F,"M.Sc Chemistry, B.Ed",5,Mathematics;Science;English,5-10,Bhawarkuan,Home Tuition,470,Hindi,Thu 18-22;Sat 18-22,SAMPLE,CBSE,Hindi,
+44,Mamta Verma,F,M.Tech,10,Chemistry;Biology;Science,9-10,Rajendra Nagar,Home Tuition,530,English;Hindi,,SAMPLE,"CBSE, MP Board",English;Hindi,
+45,Neha Chouhan,F,"M.A Economics, B.Ed",11,Geography;History;Economics;Psychology,9-12,Sudama Nagar,Home Tuition,680,English;Hindi,Mon 18-22;Tue 18-22;Sat 16-19;Sun 9-13,SAMPLE,CBSE,English;Hindi,Arts
+46,Anjali Mishra,F,M.Tech,3,Mathematics;English;Hindi;EVS,1-5,AB Road,Home Tuition,230,English;Hindi,Sat 18-22;Sun 16-19,SAMPLE,ICSE,English;Hindi,
+47,Archana Jain,F,"CA Inter, B.Com",12,Mathematics;Accountancy;Economics,9-12,Saket Nagar,Home Tuition,730,English;Hindi,Mon 15-18;Thu 17-22;Fri 16-20;Sat 15-18,SAMPLE,ICSE,English;Hindi,Commerce
+48,Shweta Rathore,F,"B.Sc, B.Ed",6,Chemistry;Biology;Science,9-10,Palasia,Home Tuition,460,Hindi,Tue 16-19;Thu 18-22;Fri 17-20,SAMPLE,CBSE,Hindi,
+49,Tarun Gupta,M,B.Tech,4,Mathematics;EVS;General Science,1-8,Palasia,Home Tuition,400,Hindi,Mon 18-22;Tue 18-21;Wed 15-19;Thu 15-18,SAMPLE,ICSE,Hindi,
+50,Shalini Shukla,F,"B.Sc, B.Ed",2,Mathematics;Science;English,4-8,Saket Nagar,Home Tuition,310,English;Hindi,Tue 15-20;Thu 16-20;Sat 9-12,SAMPLE,ICSE,English;Hindi,
+51,Anita Verma,F,M.Com,15,Accountancy;Economics;English,11-12,Rajendra Nagar,Home Tuition,940,English;Hindi,Mon 17-20;Tue 16-21,SAMPLE,CBSE,English;Hindi,Commerce
+52,Anita Rathore,F,"B.Sc, B.Ed",14,Computer Science;Physics;English,11-12,Choithram,Home Tuition,870,Hindi,Mon 15-19;Tue 18-21;Fri 16-20;Sat 15-19;Sun 16-19,SAMPLE,MP Board,Hindi,Science
+53,Nidhi Vyas,F,"M.Sc Mathematics, B.Ed",6,Mathematics;Physics;Computer Science,9-10,Saket Nagar,Home Tuition,390,Hindi,Mon 18-21;Tue 18-21;Wed 18-21;Thu 15-19;Sat 10-15,SAMPLE,CBSE,Hindi,
+54,Meera Dubey,F,Experienced school teacher (B.A),5,Mathematics;Computer Science;English;Biology,6-12,Rau,Home Tuition,650,English;Hindi,Mon 15-18;Wed 15-19;Fri 18-22;Sun 15-19,SAMPLE,"CBSE, MP Board",English;Hindi,Science
+55,Pooja Sharma,F,"M.Sc Mathematics, Ph.D",14,Physics;Mathematics;English;Biology,9-12,Scheme 78,Home Tuition,900,English;Hindi,Wed 17-22;Thu 15-20;Sun 10-14,SAMPLE,"CBSE, MP Board",English;Hindi,Science
+56,Neha Verma,F,"M.Sc Biology, B.Ed",9,English;Social Science,9-10,Tilak Nagar,Home Tuition,480,English;Hindi,Mon 15-19;Wed 18-22;Thu 18-21;Sat 10-13;Sun 16-20,SAMPLE,CBSE,English;Hindi,
